@@ -1,13 +1,11 @@
-<h1 align="left">🫡 Hi, I'm João Nogueira!!</h1>
-<h3 align="left">Software Developer from Brazil! 🇧🇷❤️</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 📝 I’m currently improving my knowledge in **Iot**
-- 👨🏻‍🎓 Graduating in Computer Engineering
-- 💬 Ask to me about development for **front, back and mobile** <br>
+ ### Hi, I'm Joao Nogueira <strong>(joaomenna1)</strong>!
 
-## 🛠 • Languages and Tools:
-<div style="display: inline_block">
-</div><br>
+ #### Software developer
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,react,nestjs,nodejs,androidstudio,idea,arduino,py,git&perline=5)](https://skillicons.dev)
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenna1&layout=compact&langs_count=4&theme=city_lights"/>
   
 ## 📬 • How to reach me:
