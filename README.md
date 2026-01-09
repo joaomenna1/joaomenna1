@@ -87,3 +87,12 @@
 </div>
 
 ###
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thayller/thayller/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
