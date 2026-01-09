@@ -1,15 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h2 align="left">Olá 👋! Olá meu nome é João Menna, sou engenheiro da computação.</h2>
 
- ### Hi, I'm Joao Nogueira <strong>(joaomenna1)</strong>!
+###
 
- #### Software developer
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,react,nestjs,nodejs,androidstudio,idea,arduino,py,git&perline=5)](https://skillicons.dev)
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomenna1&layout=compact&langs_count=4&theme=city_lights"/>
-  
-## 📬 • How to reach me:
-<div>
-  <a href = "mailto:joaomenna1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jrnmb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaomenna1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomenna1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
